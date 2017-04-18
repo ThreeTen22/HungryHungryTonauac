@@ -21,7 +21,11 @@ end
 
 function addFoodEffects(entityId)
   local containerId = world.entityQuery(entity.position(), 15, {includedTypes = {"object"},callScript = "config.getParameter",callScriptArgs = {"objectType"}, callScriptResult = "container"})
-  containerId = containerId[1]
+  if containerId then
+    containerId = containerId[1]
+  else
+    return
+  end
 
   local items = world.containerItems(containerId) or {}
   local effects = {}
