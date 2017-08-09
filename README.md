@@ -2,17 +2,9 @@
 
 A mod for the popular indie game Starbound.
 
-This mod aims to expand Tonauac's blessings in a vanilla-friendly way.
-
 for more details, please visit steam the modpage:
 http://steamcommunity.com/sharedfiles/filedetails/?id=908048884
 
-
-
-From steam:
-As Tonauac sat down for the umpteenth time, thinking about how the Cultivator's champion has abandonded him and his companions due to their irrelevancy. "How can I get the cultivator's champion to come and visit me more often?" He thought. Then, as if his mind wasn't his own, the answer came to him and he began to plan...
-
-Hungry, Hungry Tonauac
 
 This mod aims to expand Tonauac's blessings in a vanilla-friendly way.
 How it works is simple. Tonauac is a devout believer, Tonauac also understands the notion that klux is a god that values equiviant exchange. Tanauac also loooooooves food.
